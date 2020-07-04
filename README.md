@@ -10,7 +10,8 @@ webpage: Click
 ###My interest in IT
 Interest in IT developed few years ago due to my brother and other family members being in IT, but I did not learn further than required. It was a general curiosity to know some basic programming and other aspects of IT. I was accepted into RMIT to learn introductory programming though I am not progressing well to the extent I'd like to. I expect to learn new concepts and developments in this field.
 
-![image](dreamjob.png)My Ideal Job
+![image](dreamjob.png)
+#My Ideal Job
 This position is vast and varied dealing with Infrastructure, Networks, Communications, End User Computing and Service Delivery which falls under the Cloud Services Platform. This role also ensures customers are the no 1 priority and are valued following ethical principles. The role requires more than 5 -10 years experience in customer base as well as technical experience in a professional services environment – Networking and Windows Servers.
 
 Key Accountabilities:
